@@ -17,7 +17,6 @@ git log --oneline
 # 3️⃣ Ramas
 git branch feature-x
 git switch feature-x
-# (haz cambios)
 git commit -am "Cambios en feature-x"
 git switch main
 
